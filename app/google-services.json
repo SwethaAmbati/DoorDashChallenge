@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "323855040108",
+    "firebase_url": "https://doordashcodechallenge.firebaseio.com",
+    "project_id": "doordashcodechallenge",
+    "storage_bucket": "doordashcodechallenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323855040108:android:3f708333b1e0c540",
+        "android_client_info": {
+          "package_name": "com.doordash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323855040108-v2jcs510ifvmjsvbdconlma6ve54p8se.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.doordash",
+            "certificate_hash": "56b930424c5eb3e76aeee914420ab90601fbfd48"
+          }
+        },
+        {
+          "client_id": "323855040108-f0rinemhv3nudhdh2g3rntnls26nhfuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA95rv41Zy1wSaapAZuqXQxwEyvyOEWT4k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323855040108-f0rinemhv3nudhdh2g3rntnls26nhfuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
